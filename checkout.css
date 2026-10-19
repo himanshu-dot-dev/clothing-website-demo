@@ -1,0 +1,6 @@
+/**
+ * FORME — Checkout Stylesheet Bundle
+ * Imports common design system tokens and checkout styles.
+ */
+@import url("css/common.css");
+@import url("css/checkout.css");

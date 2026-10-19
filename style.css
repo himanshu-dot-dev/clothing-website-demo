@@ -1,0 +1,6 @@
+/**
+ * FORME — Main Storefront Stylesheet Bundle
+ * Imports common design system tokens and storefront styles.
+ */
+@import url("css/common.css");
+@import url("css/shop.css");
